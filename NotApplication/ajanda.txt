@@ -1,0 +1,16 @@
+Baslik: sd
+Icerik: aSas
+Tarih: 1
+-----------------------
+Baslik: asdasd
+Icerik: asdasd
+Tarih: 2
+-----------------------
+Baslik: ff
+Icerik: f
+Tarih: 4
+-----------------------
+Baslik: s
+Icerik: a
+Tarih: q
+-----------------------
